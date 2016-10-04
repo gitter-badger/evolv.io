@@ -1,6 +1,8 @@
 # evolv\.io
 ### Evolution simulator created by carykh [(youtube)](https://www.youtube.com/channel/UC9z7EZAbkphEMg0SP7rw44A)
 
+[![Join the chat at https://gitter.im/evolv-io/Lobby](https://badges.gitter.im/evolv-io/Lobby.svg)](https://gitter.im/evolv-io/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Summary
 
 evolv\.io is an evolution similator that runs on the application [processing](https://www.processing.org). 
