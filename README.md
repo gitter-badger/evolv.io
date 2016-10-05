@@ -1,17 +1,10 @@
-# evolv\.io
-### Evolution simulator created by carykh [(youtube)](https://www.youtube.com/channel/UC9z7EZAbkphEMg0SP7rw44A)
+This is the source code to [the evolv.io evolution simulator](https://www.youtube.com/watch?v=OLnv8QaEDL0) by [carykh](https://www.youtube.com/user/carykh).
 
-## Summary
+# Executing
 
-evolv\.io is an evolution similator that runs on the application [processing](https://www.processing.org). 
-evolv\.io uses a neural net and evolution in order to simluate creatures evolving over a process of many *(hundreds)* of years.
+[![Join the chat at https://gitter.im/evolvio/evolv.io](https://badges.gitter.im/evolvio/evolv.io.svg)](https://gitter.im/evolvio/evolv.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Installation
-
-1. Download [Processing](https://www.processing.org/download/?processing).
-2. Launch Processing and open the file [EvolvioColor.pde](evolv.io/EvolvioColor/EvolvioColor.pde) from this repository.
-3. Click play.
-
-## Using evolv.\io
-
-###### To be completed.
+1. Download the EvolvioColor folder (Click the green `Clone or download` button and select `Download ZIP`, then extract using e.g. WinRAR)
+2. Download Processing (version 2 or 3)
+3. Click `File > Open` and open `EvolvioColor/EvolvioColor.pde`.
+4. Click `Sketch > Run`
